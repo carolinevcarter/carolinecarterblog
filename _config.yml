@@ -1,0 +1,19 @@
+# Site settings
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
+title: Carnet de Caprices
+email: carolinevcarter@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  “Wherever you go becomes a part of you somehow.”
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: carolinevcarter
+github_username:  carolinevcarter
+instagram_username: carolinevcarter
+
+
+# Build settings
+markdown: kramdown
