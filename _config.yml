@@ -17,3 +17,6 @@ instagram_username: carolinevcarter
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - vendor
