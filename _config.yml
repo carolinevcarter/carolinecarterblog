@@ -17,3 +17,11 @@ instagram_username: carolinevcarter
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - config.ru
+  - Rakefile
