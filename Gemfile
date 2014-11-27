@@ -1,10 +1,5 @@
 source 'https://rubygems.org'
 ruby '2.1.2'
-gem 'jekyll'
-gem 'kramdown'
-gem 'rake'
-
-## Github Pages
 
 require 'json'
 require 'open-uri'
